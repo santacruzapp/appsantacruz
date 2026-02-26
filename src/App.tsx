@@ -234,7 +234,9 @@ function HomeView({ onNavigate }: { onNavigate: (view: View) => void }) {
           <h4 className="font-bold text-sm text-primary uppercase tracking-wider">Dica do dia</h4>
         </div>
         <p className="text-sm text-gray-500 leading-relaxed">
-          O Nosso horário de atendimento presencial é de segunda a sexta-feira das 8h às 21h30. <br> Você pode falar conosco por telefone ou Whastapp atráves do número: 41 3052-4900, das 8h ás 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h</br>
+          O Nosso horário de atendimento presencial é de segunda a sexta-feira das 8h às 21h30.
+          <br />
+          Você pode falar conosco por telefone ou Whastapp atráves do número: 41 3052-4900, das 8h ás 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h
         </p>
       </div>
     </div>
