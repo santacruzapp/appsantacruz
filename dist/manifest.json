@@ -1,0 +1,24 @@
+{
+  "short_name": "Santa Cruz",
+  "name": "Santa Cruz - Portal do Aluno",
+  "description": "Portal acadêmico do Centro Universitário Santa Cruz",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#050f1e",
+  "background_color": "#dc3979"
+}
