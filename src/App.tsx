@@ -199,7 +199,7 @@ function HomeView({ onNavigate }: { onNavigate: (view: View) => void }) {
       <div className="space-y-2">
         <h1 className="text-3xl text-primary tracking-tight">Olá, Estudante! 👋</h1>
         <p className="text-sm text-gray-700 leading-relaxed">
-          Bem-vindo ao seu portal acadêmico. Aqui você encontra tudo o que precisa para o seu dia a dia na Santa Cruz.
+          No Flow você entra no seu ritmo e vive a experiência de ser Santa Cruz desde o primeiro dia de aula. Aqui você vai encontrar tudo o que precisa para te ajudar nesta jornada. Bem-vindo (a)!
         </p>
       </div>
 
@@ -253,7 +253,7 @@ function HomeView({ onNavigate }: { onNavigate: (view: View) => void }) {
           <h4 className="font-bold text-sm text-primary uppercase tracking-wider">Dica do dia</h4>
         </div>
         <p className="text-sm text-gray-500 leading-relaxed">
-          Mantenha seu portal sempre aberto para não perder nenhuma atualização de sala ou evento importante!
+          O nosso horário de atendimento presencial é de segunda à sexta-feira das 8h às 21h30. Você pode falar conosco por telefone ou whatsapp através do número 41 3052 4900, das 8h às 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h.
         </p>
       </div>
     </div>
