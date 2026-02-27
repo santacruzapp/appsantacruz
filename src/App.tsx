@@ -566,9 +566,17 @@ function FAQView({ data }: { data: FAQItem[] }) {
 
   const categories = useMemo(() => {
     const cats: Record<string, FAQItem[]> = {};
-    data.forEach(item => {
-      if (!cats[item.categoria]) cats[item.categoria] = [];
-      cats[item.categoria].push(item);
+    data.forEach((item) => {
+      const categoria = item.categoria?.trim() || "Geral";
+
+      if (!cats[categoria]) {
+        cats[categoria] = [];
+      }
+
+      cats[categoria].push({
+        ...item,
+        categoria
+      });
     });
     return Object.entries(cats);
   }, [data]);

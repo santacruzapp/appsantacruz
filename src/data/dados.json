@@ -9937,59 +9937,73 @@
   "faq": [
     {
       "pergunta": "Quando começam as aulas?",
-      "resposta": "O FLOW já tem data para começar e você é parte desse movimento, No dia 02/03, segunda-feira, a gente abre as portas para você entrar no ritmo e começar seus estudos com energia, propósito e na vibe certa. E já pode se preparar: as aulas começam na sequência, em 3 de março de 2026."
+      "resposta": "O FLOW já tem data para começar e você é parte desse movimento, No dia 02/03, segunda-feira, a gente abre as portas para você entrar no ritmo e começar seus estudos com energia, propósito e na vibe certa. E já pode se preparar: as aulas começam na sequência, em 3 de março de 2026.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "O que é o Web Aluno?",
-      "resposta": "O Web Aluno (https://prime.santacruz.br/webaluno/) está disponível no menu superior do site. Aqui você vai acessar suas notas, horários das aulas, realizar a sua matrícula/rematrícula, boletos e muito mais. Para logar, é preciso colocar o seu CPF no campo de usuário e também o seu CPF no campo de senha."
+      "resposta": "O Web Aluno (https://prime.santacruz.br/webaluno/) está disponível no menu superior do site. Aqui você vai acessar suas notas, horários das aulas, realizar a sua matrícula/rematrícula, boletos e muito mais. Para logar, é preciso colocar o seu CPF no campo de usuário e também o seu CPF no campo de senha.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Por que devo acessar o Web aluno?",
-      "resposta": "O Web Aluno te permite acessar sua vida acadêmica para: Realizar a sua matrícula e rematrícula, Acessar a sua grade horária e turmas, com instruções claras sobre a sua matriz curricular, Horário das aulas (ensalamento), Emitir os boletos das mensalidades, Solicitar declarações e documentos, via protocolo, Consultar o Calendário Acadêmico (https://santacruz.br/normas-academicas-2/#comunicados) e ficar por dentro das datas e prazos importantes como: provas, períodos de matrículas, feriados e eventos institucionais da Santa Cruz."
+      "resposta": "O Web Aluno te permite acessar sua vida acadêmica para: Realizar a sua matrícula e rematrícula, Acessar a sua grade horária e turmas, com instruções claras sobre a sua matriz curricular, Horário das aulas (ensalamento), Emitir os boletos das mensalidades, Solicitar declarações e documentos, via protocolo, Consultar o Calendário Acadêmico (https://santacruz.br/normas-academicas-2/#comunicados) e ficar por dentro das datas e prazos importantes como: provas, períodos de matrículas, feriados e eventos institucionais da Santa Cruz.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Como emitir meus boletos?",
-      "resposta": "O seu boleto fica disponível após o dia 20 de cada mês. E lembrem para assegurar sua bolsa, o vencimento é todo dia 1º. Para visualizar e pagar acesse WebAluno > Menu > Posição Financeira"
+      "resposta": "O seu boleto fica disponível após o dia 20 de cada mês. E lembrem para assegurar sua bolsa, o vencimento é todo dia 1º. Para visualizar e pagar acesse WebAluno > Menu > Posição Financeira",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Como vejo o ensalamento e a grade?",
-      "resposta": "A grade horária de disciplinas e turmas está disponível no WEB Aluno, menu > Grade horária, com instruções claras sobre sua matriz curricular, e as disciplinas que você está cursando."
+      "resposta": "A grade horária de disciplinas e turmas está disponível no WEB Aluno, menu > Grade horária, com instruções claras sobre sua matriz curricular, e as disciplinas que você está cursando.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Biblioteca: Como acessar?",
-      "resposta": "Dentro do Web Aluno você encontra a Biblioteca on-line e física no segundo andar, com um amplo acervo para apoiar seus estudos e pesquisas, e várias salas destinadas ao estudo individual."
+      "resposta": "Dentro do Web Aluno você encontra a Biblioteca on-line e física no segundo andar, com um amplo acervo para apoiar seus estudos e pesquisas, e várias salas destinadas ao estudo individual.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Entrega de documentação",
-      "resposta": "Para o registro acadêmico, precisamos dos seguintes documentos: CPF/ RG ou CNH / Comprovante de endereço/ Histórico do Ensino Médio, Certidão de nascimento ou casamento / Título de eleitor/ Reservista para homens, Envie os documentos para > documentacao@unisantacruz.edu.br"
+      "resposta": "Para o registro acadêmico, precisamos dos seguintes documentos: CPF/ RG ou CNH / Comprovante de endereço/ Histórico do Ensino Médio, Certidão de nascimento ou casamento / Título de eleitor/ Reservista para homens, Envie os documentos para > documentacao@unisantacruz.edu.br",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Como solicitar declarações e documentos?",
-      "resposta": "Solicite via WEB Aluno > menu > Protocolo, as declarações de matrícula ou outros documentos acadêmicos. Sabia que a declaração de matrícula e o histórico simplificado não tem custo e são emitidos na hora?"
+      "resposta": "Solicite via WEB Aluno > menu > Protocolo, as declarações de matrícula ou outros documentos acadêmicos. Sabia que a declaração de matrícula e o histórico simplificado não tem custo e são emitidos na hora?",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Posso agendar atendimento com coordenadores?",
-      "resposta": "Sim! Pode ser feito diretamente no e-mail do coordenador ou pode comparecer à secretaria das coordenações, no 1º andar e agendar o seu atendimento com os coordenadores dos cursos."
+      "resposta": "Sim! Pode ser feito diretamente no e-mail do coordenador ou pode comparecer à secretaria das coordenações, no 1º andar e agendar o seu atendimento com os coordenadores dos cursos.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Indique e Ganhe, o que é?",
-      "resposta": "Aqui na Santa Cruz a sua indicação pode valer até 1 mensalidade. Para participar, indique um amigo ou familiar para se matricular em um curso de graduação presencial da Santa Cruz. A cada indicação efetivada, o aluno que indicou ganha um desconto de até 100% em uma mensalidade. Ou seja, quanto mais indicações forem feitas, maiores serão os descontos. Consulte as regras e o edital aqui. (https://santacruz.br/promocao-indique-e-ganhe/)"
+      "resposta": "Aqui na Santa Cruz a sua indicação pode valer até 1 mensalidade. Para participar, indique um amigo ou familiar para se matricular em um curso de graduação presencial da Santa Cruz. A cada indicação efetivada, o aluno que indicou ganha um desconto de até 100% em uma mensalidade. Ou seja, quanto mais indicações forem feitas, maiores serão os descontos. Consulte as regras e o edital aqui. (https://santacruz.br/promocao-indique-e-ganhe/)",
+      "categoria": "Geral"
     },
     {
-      "pergunta": "O que é o Conecta, programa de cagas e carreiras?",
-      "resposta": "O Conecta (https://santacruz.br/conecta/) é a sua ponte com o mercado. É a plataforma que liga alunos e ex-alunos às melhores oportunidades: vagas, estágios, cursos e mentorias estratégicas. Porque aqui, a jornada não começa só na sala de aula, ela acelera para o mundo."
+      "pergunta": "O que é o Conecta, programa de vagas e carreiras?",
+      "resposta": "O Conecta (https://santacruz.br/conecta/) é a sua ponte com o mercado. É a plataforma que liga alunos e ex-alunos às melhores oportunidades: vagas, estágios, cursos e mentorias estratégicas. Porque aqui, a jornada não começa só na sala de aula, ela acelera para o mundo.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Núcleos",
-      "resposta": "NAP - Núcleo de Atendimento Psicopedagógico: responsável por conduzir processos de avaliação institucional, garantindo a melhoria contínua e a qualidade dos serviços educacionais.\nNPJ - Núcleo de Prática Jurídica: focada em promover a inclusão e a acessibilidade, criando um ambiente educacional adaptado às necessidades de todos."
+      "resposta": "NAP - Núcleo de Atendimento Psicopedagógico: responsável por conduzir processos de avaliação institucional, garantindo a melhoria contínua e a qualidade dos serviços educacionais.\nNPJ - Núcleo de Prática Jurídica: focada em promover a inclusão e a acessibilidade, criando um ambiente educacional adaptado às necessidades de todos.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Central de atendimento",
-      "resposta": "O nosso horário de atendimento presencial é de segunda a sexta-feira das 8h às 21h30.\nVocê pode falar conosco por telefone ou whatsapp através do número: 41 3052 4900, das 8h às 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h."
+      "resposta": "O nosso horário de atendimento presencial é de segunda a sexta-feira das 8h às 21h30.\nVocê pode falar conosco por telefone ou whatsapp através do número: 41 3052 4900, das 8h às 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h.",
+      "categoria": "Geral"
     },
     {
       "pergunta": "Contatos para emergências",
-      "resposta": "Em caso de emergência, entre em contato com as salas de apoio da Brigada Santa Cruz:\n- Térreo: Sala técnica de Enfermagem\n- 1º andar: Secretaria das Coordenações\n- 2º andar: TI e NEaD\nTelefones úteis da Brigada:\n- Corpo de Bombeiros/SIATE (situações de traumas como quedas, atropelamentos ou acidentes automobilísticos) – 193\n- SAMU (situações clínicas, infartos ou acidente vascular) – 192\n- Ambulância Plus Santè Emergências Médicas – (41) 3342-2525"
+      "resposta": "Em caso de emergência, entre em contato com as salas de apoio da Brigada Santa Cruz:\n- Térreo: Sala técnica de Enfermagem\n- 1º andar: Secretaria das Coordenações\n- 2º andar: TI e NEaD\nTelefones úteis da Brigada:\n- Corpo de Bombeiros/SIATE (situações de traumas como quedas, atropelamentos ou acidentes automobilísticos) – 193\n- SAMU (situações clínicas, infartos ou acidente vascular) – 192\n- Ambulância Plus Santè Emergências Médicas – (41) 3342-2525",
+      "categoria": "Geral"
     }
   ]
 }
