@@ -6,7 +6,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import Linkify from "linkify-react";
-import { FaWhatsapp } from "react-icons/fa6";
+import { FaWhatsapp, FaInstagram } from "react-icons/fa6";
 import { 
   Search, 
   Calendar, 
@@ -22,21 +22,23 @@ import {
   Info,
   Home
 } from 'lucide-react';
-import { Ensalamento, Evento, FAQItem, View } from './types';
 import dados from './data/dados.json';
+import { Ensalamento, Evento, FAQItem, View } from './types';
 
 export default function App() {
-  const [activeView, setActiveView] = useState<View>('home');
+  const [activeView, setActiveView] = useState<View>('home'); 
   const [showSplash, setShowSplash] = useState(true);
-  // Dados locais (JSON)
-  const ensalamentos = (dados as any).ensalamentos as Ensalamento[];
-  const eventos = (dados as any).eventos as Evento[];
-  const faq = (dados as any).faq as FAQItem[];
+
+  // Data states
+  const [ensalamentos, setEnsalamentos] = useState<Ensalamento[]>(dados.ensalamentos as Ensalamento[]);
+  const [eventos, setEventos] = useState<Evento[]>(dados.eventos as Evento[]);
+  const [faq, setFaq] = useState<FAQItem[]>(dados.faq as FAQItem[]);
+
   useEffect(() => {
+    // Splash somente para experiência visual (dados já estão locais no bundle)
     const t = setTimeout(() => setShowSplash(false), 1200);
     return () => clearTimeout(t);
   }, []);
-
 if (showSplash) {
     return (
       <div className="fixed inset-0 bg-primary flex flex-col items-center justify-center z-50">
@@ -86,14 +88,27 @@ if (showSplash) {
                 className="h-24 w-auto object-contain -my-6" // h-24 aumenta a logo, -my-6 encolhe a borda azul
               />
             </div>
-            <a
-              href="https://wa.me/554130524900"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition"
-           >
-              <FaWhatsapp className="w-5 h-5 text-primary" />
-            </a>
+            <div className="flex items-center gap-2">
+              <a
+                href="https://www.instagram.com/santacruz_centrouniversitario/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram"
+                className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition"
+              >
+                <FaInstagram className="w-5 h-5 text-primary" />
+              </a>
+
+              <a
+                href="https://wa.me/554130524900"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="WhatsApp"
+                className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition"
+              >
+                <FaWhatsapp className="w-5 h-5 text-primary" />
+              </a>
+            </div>
           </div>
         </header>
         {/* Main Content */}
@@ -180,7 +195,7 @@ function HomeView({ onNavigate }: { onNavigate: (view: View) => void }) {
       <div className="space-y-2">
         <h1 className="text-3xl text-primary tracking-tight">Olá, Estudante! 👋</h1>
         <p className="text-sm text-gray-700 leading-relaxed">
-          No <strong>Flow</strong> você entra no seu ritmo e vive a experiência de ser Santa Cruz desde o primeiro dia de aula. Aqui você vai encontrar tudo o que precisa para te ajudar nesta jornada. Bem-vindo (a)!
+          Bem-vindo ao seu portal acadêmico. Aqui você encontra tudo o que precisa para o seu dia a dia na Santa Cruz.
         </p>
       </div>
 
@@ -234,9 +249,7 @@ function HomeView({ onNavigate }: { onNavigate: (view: View) => void }) {
           <h4 className="font-bold text-sm text-primary uppercase tracking-wider">Dica do dia</h4>
         </div>
         <p className="text-sm text-gray-500 leading-relaxed">
-          O Nosso horário de atendimento presencial é de segunda a sexta-feira das 8h às 21h30.
-          <br />
-          Você pode falar conosco por telefone ou Whastapp atráves do número: 41 3052-4900, das 8h ás 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h
+          Mantenha seu portal sempre aberto para não perder nenhuma atualização de sala ou evento importante!
         </p>
       </div>
     </div>
