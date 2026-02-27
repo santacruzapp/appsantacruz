@@ -9907,7 +9907,7 @@
     },
     {
       "pergunta": "O que é o Web Aluno?",
-      "resposta": "O Web Aluno (https://prime.santacruz.br/webaluno/) está disponível no menu superior do site. Aqui você vai acessar suas notas, horários das aulas, realizar a sua matrícula/rematrícula, boletos e muito mais. Para logar, é preciso colocar o seu CPF e sua data de nascimento (xx/xx/xxxx).",
+      "resposta": "O Web Aluno (https://prime.santacruz.br/webaluno/) está disponível no menu superior do site. Aqui você vai acessar suas notas, horários das aulas, realizar a sua matrícula/rematrícula, boletos e muito mais. Para logar, é preciso colocar o seu CPF no campo de usuário e também o seu CPF no campo de senha.",
       "categoria": "Geral"
     },
     {
