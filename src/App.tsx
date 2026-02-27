@@ -525,8 +525,8 @@ function EventosView({ data }: { data: Evento[] }) {
         {data.length > 0 ? (
           data.map((evento, idx) => (
             <div key={idx} className="card space-y-4 overflow-hidden p-0">
-              <div className="h-32 bg-primary/5 flex items-center justify-center">
-                <Calendar className="w-12 h-12 text-primary/20" />
+              <div className="h-32 bg-[#DC3970] flex items-center justify-center">
+                <Calendar className="w-12 h-12 text-white" />
               </div>
               <div className="p-4 space-y-3">
                 <div>
