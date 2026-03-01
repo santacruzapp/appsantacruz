@@ -9896,42 +9896,42 @@
       "descricao": "",
       "local": "Área Interna",
       "data": "02/03",
-      "horario": "08h - 17:30h"
+      "horario": "Manhã: 08h - Noite: 17:30h"
     },
     {
       "titulo": "Atrações e ativações especiais",
       "descricao": "Máquina de pelúcia, Simulador de Fórmula 1, dinâmicas para brindes.",
       "local": "Área Interna",
       "data": "02/03",
-      "horario": "09h - 18h"
+      "horario": "Manhã: 09h - Noite: 18h"
     },
     {
       "titulo": "Abertura oficial",
       "descricao": "Apresentação presidência, reitoria e coordenadores.",
       "local": "Área Externa",
       "data": "02/03",
-      "horario": "09:20h - 19:20h"
+      "horario": "Manhã: 09:20h - Noite: 19:20h"
     },
     {
       "titulo": "Atração surpresa",
       "descricao": "Você não perde por esperar...",
       "local": "Área Externa",
       "data": "02/03",
-      "horario": "10h - 20:20h"
+      "horario": "Manhã: 10h - Noite: 20:20h"
     },
     {
       "titulo": "Dinâmica e sorterio",
       "descricao": "Moletom Santa Cruz, cesta com eletrônicos e muito mais para o aluno Santa Cruz.",
       "local": "Área Externa",
       "data": "02/03",
-      "horario": "11h - 21:30h"
+      "horario": "Manhã: 11h - Noite: 21:30h"
     },
     {
       "titulo": "Encerramento Flow",
       "descricao": "",
       "local": "Área Externa",
       "data": "02/03",
-      "horario": "12h - 22h"
+      "horario": "Manhã: 12h - Noite: 22h"
     }
   ],
   "faq": [

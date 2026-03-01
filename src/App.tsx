@@ -251,7 +251,7 @@ function HomeView({ onNavigate }: { onNavigate: (view: View) => void }) {
         <p className="text-sm text-gray-500 leading-relaxed">
           O Nosso horário de atendimento presencial é de segunda a sexta-feira das 8h às 21h30.
           <br />
-          Você pode falar conosco por telefone ou Whastapp atráves do número: 41 3052-4900, das 8h ás 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h
+          Você pode falar conosco por telefone ou Whastapp atráves do número: 41 3052-4900, das 8h às 20h30 ou, de segunda à sexta-feira, e sábado, das 8h às 14h
         </p>
       </div>
     </div>
@@ -562,23 +562,17 @@ function EventosView({ data }: { data: Evento[] }) {
 }
 
 function FAQView({ data }: { data: FAQItem[] }) {
-  const [openIdx, setOpenIdx] = useState<number | null>(null);
+  const [openKey, setOpenKey] = useState<string | null>(null);
 
   const categories = useMemo(() => {
     const cats: Record<string, FAQItem[]> = {};
     data.forEach((item) => {
-      const categoria = item.categoria?.trim() || "Geral";
-
-      if (!cats[categoria]) {
-        cats[categoria] = [];
-      }
-
-      cats[categoria].push({
-        ...item,
-        categoria
-      });
-    });
-    return Object.entries(cats);
+    const categoria = item.categoria?.trim() || "Geral";
+    if (!cats[categoria]) cats[categoria] = [];
+    // Mantém a mesma referência do objeto para o toggle funcionar corretamente
+    cats[categoria].push(item);
+  });
+  return Object.entries(cats);
   }, [data]);
 
   return (
@@ -591,12 +585,12 @@ function FAQView({ data }: { data: FAQItem[] }) {
               <h3 className="text-xs font-bold uppercase tracking-widest text-black/40 px-1">{cat}</h3>
               <div className="space-y-2">
                 {items.map((item, idx) => {
-                  const globalIdx = data.indexOf(item);
-                  const isOpen = openIdx === globalIdx;
+                  const key = `${cat}-${idx}`;
+                  const isOpen = openKey === key;
                   return (
                     <div key={idx} className="card p-0 overflow-hidden">
                       <button 
-                        onClick={() => setOpenIdx(isOpen ? null : globalIdx)}
+                        onClick={() => setOpenKey(isOpen ? null : key)}
                         className="w-full text-left p-4 flex items-center justify-between gap-4"
                       >
                         <span className="font-bold text-sm">{item.pergunta}</span>
