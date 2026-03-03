@@ -107,7 +107,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -118,7 +118,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -129,7 +129,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -140,7 +140,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -492,7 +492,7 @@
       "professor": "REGINALDO RIBAS",
       "dia": "Segunda-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -613,7 +613,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -822,7 +822,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -833,7 +833,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -1427,7 +1427,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -1438,7 +1438,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -1864,10 +1864,10 @@
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "1º Período",
       "disciplina": "Direito Aeronáutico",
-      "professor": "",
+      "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -1875,10 +1875,10 @@
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "2º Período",
       "disciplina": "Direito Aeronáutico",
-      "professor": "",
+      "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -2043,7 +2043,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -2054,7 +2054,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -2065,7 +2065,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -2076,7 +2076,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -2450,7 +2450,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -2461,7 +2461,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -2538,7 +2538,7 @@
       "professor": "MICHAEL DIONÍSIO DE SOUZA",
       "dia": "Terça-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -2714,7 +2714,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -2725,7 +2725,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -2747,7 +2747,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -2769,7 +2769,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -3528,7 +3528,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3539,7 +3539,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -3550,7 +3550,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3561,7 +3561,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -3627,7 +3627,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3638,7 +3638,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3671,7 +3671,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3693,7 +3693,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3715,7 +3715,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3726,7 +3726,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3847,7 +3847,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -3869,7 +3869,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -4089,7 +4089,7 @@
       "professor": "WENDER MACIEL BARABACH DA SILVA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 19:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -4100,7 +4100,7 @@
       "professor": "WENDER MACIEL BARABACH DA SILVA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 19:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -4166,7 +4166,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -4188,7 +4188,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -4749,7 +4749,7 @@
       "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Quarta-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -4881,7 +4881,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6077,10 +6077,10 @@
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "1º Período",
       "disciplina": "Princípios do Voo I",
-      "professor": "",
+      "professor": "GILBERTO STADINIK",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -6088,10 +6088,10 @@
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "2º Período",
       "disciplina": "Princípios do Voo I",
-      "professor": "",
+      "professor": "GILBERTO STADINIK",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -6099,7 +6099,7 @@
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "3º Período",
       "disciplina": "Segurança de Voo",
-      "professor": "",
+      "professor": "WENDER MACIEL BARABACH DA SILVA",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
       "sala": "317",
@@ -6113,7 +6113,7 @@
       "professor": "DANILO GIMENES ZANONI",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6124,7 +6124,7 @@
       "professor": "DANILO GIMENES ZANONI",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6135,7 +6135,7 @@
       "professor": "DANILO GIMENES ZANONI",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6322,7 +6322,7 @@
       "professor": "Bruna Stall",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6333,7 +6333,7 @@
       "professor": "Bruna Stall",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6355,7 +6355,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6366,7 +6366,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6377,7 +6377,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6388,7 +6388,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6399,7 +6399,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6575,7 +6575,7 @@
       "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6715,7 +6715,7 @@
       "curso": "Direito",
       "periodo": "7º Período",
       "disciplina": "Prática Jurídica II - Cívil - Simulada",
-      "professor": "TACIANE MARIA BRAVO",
+      "professor": "EROS BELIN DE MOURA CORDEIRO",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 20:40",
       "sala": "211",
@@ -6737,7 +6737,7 @@
       "curso": "Direito",
       "periodo": "9º Período",
       "disciplina": "Prática Jurídica IV - Simulada",
-      "professor": "ISRAEL RUTTE",
+      "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Quinta-Feira",
       "horario": "08:00 - 09:40",
       "sala": "211",
@@ -6792,7 +6792,7 @@
       "curso": "Direito",
       "periodo": "8º Período",
       "disciplina": "Prática Jurídica IV - Simulada",
-      "professor": "ISRAEL RUTTE",
+      "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Quinta-Feira",
       "horario": "08:00 - 09:40",
       "sala": "211",
@@ -6828,7 +6828,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Quinta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -6883,7 +6883,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Quinta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -7587,7 +7587,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Quinta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -7708,7 +7708,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7752,7 +7752,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7807,7 +7807,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7818,7 +7818,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7829,7 +7829,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7840,7 +7840,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7906,7 +7906,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7928,7 +7928,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7961,7 +7961,7 @@
       "professor": "GILBERTO STADINIK",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -7972,7 +7972,7 @@
       "professor": "GILBERTO STADINIK",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -8038,7 +8038,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8071,7 +8071,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8082,7 +8082,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8346,7 +8346,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8357,7 +8357,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8368,7 +8368,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8500,7 +8500,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8511,7 +8511,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8522,7 +8522,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -8533,7 +8533,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8544,7 +8544,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8588,7 +8588,7 @@
       "professor": "Ana Carla Mendes",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8610,7 +8610,7 @@
       "professor": "Ana Carla Mendes",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8621,7 +8621,7 @@
       "professor": "Ana Carla Mendes",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -8841,7 +8841,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9028,7 +9028,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9039,7 +9039,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9050,7 +9050,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9061,7 +9061,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9072,7 +9072,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9190,10 +9190,10 @@
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "1º Período",
       "disciplina": "Medicina Aeroespacial",
-      "professor": "",
+      "professor": "ANA PAULA RODRIGUES DOS SANTOS BESSA",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 19:50",
-      "sala": "106",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -9303,7 +9303,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9314,7 +9314,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9325,7 +9325,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9336,7 +9336,7 @@
       "professor": "MARTINHO MARTINS BOTELHO",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9347,7 +9347,7 @@
       "professor": "MARTINHO MARTINS BOTELHO",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9358,7 +9358,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9369,7 +9369,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9380,7 +9380,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9391,7 +9391,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sábado",
       "horario": "08:00 - 08:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9402,7 +9402,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sábado",
       "horario": "08:00 - 08:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9413,7 +9413,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sábado",
       "horario": "08:00 - 08:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9424,7 +9424,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9435,7 +9435,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9446,7 +9446,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9457,7 +9457,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9468,7 +9468,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9490,7 +9490,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9501,7 +9501,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9512,7 +9512,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9523,7 +9523,7 @@
       "professor": "Jessika Garcia",
       "dia": "Sábado",
       "horario": "08:00 - 10:50",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9597,10 +9597,10 @@
       "curso": "Criminologia",
       "periodo": "5º Período",
       "disciplina": "Projeto Integrador - Criminologia",
-      "professor": "",
+      "professor": "HEMERSON BERTASSONI ALVES",
       "dia": "",
       "horario": "",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9677,7 +9677,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Matutino"
     },
     {
@@ -9710,7 +9710,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9732,7 +9732,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9875,7 +9875,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -9886,7 +9886,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "",
+      "sala": "On-line",
       "turno": "Noturno"
     }
   ],
