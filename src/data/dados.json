@@ -454,7 +454,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período B",
       "disciplina": "Introdução ao Estudo do Direito",
       "professor": "CARLOS ALBERTO SIMÕES DE TOMAZ",
       "dia": "Segunda-Feira",
@@ -619,7 +619,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período A",
       "disciplina": "Hermenêutica e Linguagem Jurídica",
       "professor": "MÁRCIA BRUGINSKI",
       "dia": "Segunda-Feira",
@@ -1031,7 +1031,7 @@
       "professor": "BRUNA ISADORA THOMÉ",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "305",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -1867,7 +1867,7 @@
       "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -1878,7 +1878,7 @@
       "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -2522,7 +2522,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período B",
       "disciplina": "Ciência Política e Teoria do Estado",
       "professor": "MICHAEL DIONÍSIO DE SOUZA",
       "dia": "Terça-Feira",
@@ -2753,7 +2753,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período A",
       "disciplina": "Direito Civil - Parte Geral",
       "professor": "HELLEN REGINA MELLO DIONÍSIO DE SOUZA",
       "dia": "Terça-Feira",
@@ -3143,7 +3143,7 @@
       "professor": "ANA CLEIA CARDOSO DA SILVA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "305",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -4089,7 +4089,7 @@
       "professor": "WENDER MACIEL BARABACH DA SILVA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 19:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -4100,7 +4100,7 @@
       "professor": "WENDER MACIEL BARABACH DA SILVA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 19:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -4898,7 +4898,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período A",
       "disciplina": "Ciência Política e Teoria do Estado",
       "professor": "MUNIRA GOTTARDELO DE ROCHA",
       "dia": "Quarta-Feira",
@@ -5266,7 +5266,7 @@
       "professor": "BRUNA ISADORA THOMÉ",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "305",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -6080,7 +6080,7 @@
       "professor": "GILBERTO STADINIK",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -6091,7 +6091,7 @@
       "professor": "GILBERTO STADINIK",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -6192,6 +6192,17 @@
       "horario": "08:00 - 10:50",
       "sala": "225",
       "turno": "Matutino"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Ciências Contábeis",
+      "periodo": "Turma Avançada",
+      "disciplina": "Perícia e Arbitragem",
+      "professor": "JOSE ALBERTO BONASSOLI",
+      "dia": "Quarta-Feira",
+      "horario": "19:00 - 21:50",
+      "sala": "320",
+      "turno": "Noturno"
     },
     {
       "semestre": "2026-1",
@@ -6625,7 +6636,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período B",
       "disciplina": "Hermenêutica e Linguagem Jurídica",
       "professor": "MÁRCIA BRUGINSKI",
       "dia": "Quinta-Feira",
@@ -6812,12 +6823,12 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período A",
       "disciplina": "Ext. Univ - Projetos em Responsabilidade Social",
       "professor": "DANIELLE TEDESKO",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "204",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -6845,18 +6856,18 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período B",
       "disciplina": "Ext. Univ - Projetos em Responsabilidade Social",
       "professor": "DANIELLE TEDESKO",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "204",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período A",
       "disciplina": "Introdução ao Estudo do Direito",
       "professor": "CARLOS ALBERTO SIMÕES DE TOMAZ",
       "dia": "Quinta-Feira",
@@ -6872,7 +6883,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "204",
+      "sala": "On-line",
       "turno": "Noturno"
     },
     {
@@ -7738,7 +7749,7 @@
       "curso": "Tecnologia em Design de Interiores",
       "periodo": "3º Período",
       "disciplina": "Projeto Integrador - Proj Criat Residenciais",
-      "professor": "",
+      "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
       "sala": "326",
@@ -7961,7 +7972,7 @@
       "professor": "GILBERTO STADINIK",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -7972,7 +7983,7 @@
       "professor": "GILBERTO STADINIK",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -8231,7 +8242,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "1º Período",
+      "periodo": "1º Período B",
       "disciplina": "Direito Civil - Parte Geral",
       "professor": "DANIELLE TEDESKO",
       "dia": "Sexta-Feira",
@@ -8808,7 +8819,7 @@
       "professor": "CATIA TEREZINHA HEIMBECHER",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "305",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -9193,7 +9204,7 @@
       "professor": "ANA PAULA RODRIGUES DOS SANTOS BESSA",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 19:50",
-      "sala": "223",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
