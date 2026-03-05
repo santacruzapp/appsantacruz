@@ -107,7 +107,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar-sustentavel",
       "turno": "Noturno"
     },
     {
@@ -118,7 +118,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade",
       "turno": "Noturno"
     },
     {
@@ -129,7 +129,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar-sustentavel",
       "turno": "Noturno"
     },
     {
@@ -140,7 +140,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade",
       "turno": "Noturno"
     },
     {
@@ -492,7 +492,7 @@
       "professor": "REGINALDO RIBAS",
       "dia": "Segunda-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "On-line",
+      "sala": "205",
       "turno": "Matutino"
     },
     {
@@ -613,7 +613,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar",
       "turno": "Noturno"
     },
     {
@@ -822,7 +822,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar-sustentavel",
       "turno": "Noturno"
     },
     {
@@ -833,7 +833,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar-sustentavel",
       "turno": "Noturno"
     },
     {
@@ -1427,7 +1427,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade",
       "turno": "Noturno"
     },
     {
@@ -1438,7 +1438,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Segunda-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade",
       "turno": "Noturno"
     },
     {
@@ -2043,7 +2043,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_adm",
       "turno": "Noturno"
     },
     {
@@ -2054,7 +2054,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
     },
     {
@@ -2065,7 +2065,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_adm",
       "turno": "Noturno"
     },
     {
@@ -2076,7 +2076,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
     },
     {
@@ -2450,7 +2450,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_dir",
       "turno": "Noturno"
     },
     {
@@ -2461,7 +2461,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_dir",
       "turno": "Noturno"
     },
     {
@@ -2538,7 +2538,7 @@
       "professor": "MICHAEL DIONÍSIO DE SOUZA",
       "dia": "Terça-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "On-line",
+      "sala": "212",
       "turno": "Matutino"
     },
     {
@@ -2714,7 +2714,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_dir",
       "turno": "Noturno"
     },
     {
@@ -2725,7 +2725,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
     },
     {
@@ -2747,18 +2747,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Direito",
-      "periodo": "1º Período B",
-      "disciplina": "Direito Civil - Parte Geral",
-      "professor": "HELLEN REGINA MELLO DIONÍSIO DE SOUZA",
-      "dia": "Terça-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "204",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_dir",
       "turno": "Noturno"
     },
     {
@@ -2769,7 +2758,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
     },
     {
@@ -3528,7 +3517,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_adm",
       "turno": "Noturno"
     },
     {
@@ -3539,7 +3528,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
     },
     {
@@ -3550,7 +3539,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_adm",
       "turno": "Noturno"
     },
     {
@@ -3561,7 +3550,7 @@
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
     },
     {
@@ -3627,7 +3616,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/extensao-universitaria-economia-solidaria",
       "turno": "Noturno"
     },
     {
@@ -3638,7 +3627,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/extensao-universitaria-economia-solidaria",
       "turno": "Noturno"
     },
     {
@@ -3671,7 +3660,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-ciencia-de-dados-2026-1",
       "turno": "Noturno"
     },
     {
@@ -3693,7 +3682,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-ciencia-de-dados-2026-1",
       "turno": "Noturno"
     },
     {
@@ -3715,7 +3704,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/extensao-universitaria-economia-solidaria",
       "turno": "Noturno"
     },
     {
@@ -3726,7 +3715,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Terça-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/extensao-universitaria-economia-solidaria",
       "turno": "Noturno"
     },
     {
@@ -3847,7 +3836,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-ciencia-de-dados-2026-1",
       "turno": "Noturno"
     },
     {
@@ -3869,7 +3858,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-ciencia-de-dados-2026-1",
       "turno": "Noturno"
     },
     {
@@ -4166,7 +4155,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-ciencia-de-dados-2026-1",
       "turno": "Noturno"
     },
     {
@@ -4188,7 +4177,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Terça-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-ciencia-de-dados-2026-1",
       "turno": "Noturno"
     },
     {
@@ -4749,7 +4738,7 @@
       "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Quarta-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "On-line",
+      "sala": "205",
       "turno": "Matutino"
     },
     {
@@ -4881,7 +4870,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade_noturno",
       "turno": "Noturno"
     },
     {
@@ -6075,28 +6064,6 @@
     {
       "semestre": "2026-1",
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
-      "periodo": "1º Período",
-      "disciplina": "Princípios do Voo I",
-      "professor": "GILBERTO STADINIK",
-      "dia": "Quarta-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "305",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
-      "periodo": "2º Período",
-      "disciplina": "Princípios do Voo I",
-      "professor": "GILBERTO STADINIK",
-      "dia": "Quarta-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "305",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "3º Período",
       "disciplina": "Segurança de Voo",
       "professor": "WENDER MACIEL BARABACH DA SILVA",
@@ -6113,7 +6080,7 @@
       "professor": "DANILO GIMENES ZANONI",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-sistemas-de-aeronaves-modernas",
       "turno": "Noturno"
     },
     {
@@ -6124,7 +6091,7 @@
       "professor": "DANILO GIMENES ZANONI",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-sistemas-de-aeronaves-modernas",
       "turno": "Noturno"
     },
     {
@@ -6135,7 +6102,29 @@
       "professor": "DANILO GIMENES ZANONI",
       "dia": "Quarta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-sistemas-de-aeronaves-modernas",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
+      "periodo": "1º Período",
+      "disciplina": "Medicina Aeroespacial",
+      "professor": "ANA PAULA RODRIGUES DOS SANTOS BESSA",
+      "dia": "Quarta-Feira",
+      "horario": "19:00 - 19:50",
+      "sala": "305",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
+      "periodo": "2º Período",
+      "disciplina": "Medicina Aeroespacial",
+      "professor": "ANA PAULA RODRIGUES DOS SANTOS BESSA",
+      "dia": "Quarta-Feira",
+      "horario": "19:00 - 19:50",
+      "sala": "305",
       "turno": "Noturno"
     },
     {
@@ -6333,7 +6322,7 @@
       "professor": "Bruna Stall",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilidade-social_noturno",
       "turno": "Noturno"
     },
     {
@@ -6344,7 +6333,7 @@
       "professor": "Bruna Stall",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilidade-social_noturno",
       "turno": "Noturno"
     },
     {
@@ -6366,7 +6355,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -6377,7 +6366,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -6388,7 +6377,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -6399,7 +6388,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -6410,7 +6399,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -6586,7 +6575,7 @@
       "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-arena-digital",
       "turno": "Noturno"
     },
     {
@@ -6828,7 +6817,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid",
       "turno": "Noturno"
     },
     {
@@ -6839,7 +6828,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Quinta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade_matutino",
       "turno": "Matutino"
     },
     {
@@ -6861,7 +6850,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid",
       "turno": "Noturno"
     },
     {
@@ -6883,7 +6872,7 @@
       "professor": "DANIELLE TEDESKO",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid",
       "turno": "Noturno"
     },
     {
@@ -6894,7 +6883,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Quinta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade_matutino",
       "turno": "Matutino"
     },
     {
@@ -7598,7 +7587,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Quinta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade_matutino",
       "turno": "Matutino"
     },
     {
@@ -7719,7 +7708,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-seguranca-2026-1",
       "turno": "Noturno"
     },
     {
@@ -7763,7 +7752,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -7818,7 +7807,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -7829,7 +7818,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -7840,7 +7829,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -7851,7 +7840,7 @@
       "professor": "KAREN NENCY FERREIRA",
       "dia": "Quinta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-gestao-do-meio-ambiente",
       "turno": "Noturno"
     },
     {
@@ -7917,7 +7906,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-seguranca-2026-1",
       "turno": "Noturno"
     },
     {
@@ -7939,7 +7928,7 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-seguranca-2026-1",
       "turno": "Noturno"
     },
     {
@@ -8049,7 +8038,18 @@
       "professor": "PATRICIA IAVORSKI BASSAN",
       "dia": "Quinta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-seguranca-2026-1",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Direito",
+      "periodo": "1º Período B",
+      "disciplina": "Direito Civil - Parte Geral",
+      "professor": "DANIELLE TEDESKO",
+      "dia": "Sexta-Feira",
+      "horario": "19:00 - 21:50",
+      "sala": "208",
       "turno": "Noturno"
     },
     {
@@ -8082,7 +8082,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid_matutino",
       "turno": "Matutino"
     },
     {
@@ -8093,7 +8093,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid_matutino",
       "turno": "Matutino"
     },
     {
@@ -8357,7 +8357,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar_matutino",
       "turno": "Matutino"
     },
     {
@@ -8368,7 +8368,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid_matutino",
       "turno": "Matutino"
     },
     {
@@ -8379,7 +8379,7 @@
       "professor": "JULIO CESAR FERREIRA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-projetos-em-responsabilid_matutino",
       "turno": "Matutino"
     },
     {
@@ -8511,7 +8511,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_noturno",
       "turno": "Noturno"
     },
     {
@@ -8522,7 +8522,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar_matutino",
       "turno": "Matutino"
     },
     {
@@ -8533,7 +8533,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "11:40 - 12:30",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-e-bem-estar_matutino",
       "turno": "Matutino"
     },
     {
@@ -8544,7 +8544,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_noturno",
       "turno": "Noturno"
     },
     {
@@ -8555,7 +8555,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_noturno",
       "turno": "Noturno"
     },
     {
@@ -8599,7 +8599,7 @@
       "professor": "Ana Carla Mendes",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "On-line",
+      "sala": "307",
       "turno": "Noturno"
     },
     {
@@ -8621,7 +8621,7 @@
       "professor": "Ana Carla Mendes",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "On-line",
+      "sala": "307",
       "turno": "Noturno"
     },
     {
@@ -8632,7 +8632,7 @@
       "professor": "Ana Carla Mendes",
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "On-line",
+      "sala": "307",
       "turno": "Noturno"
     },
     {
@@ -8852,7 +8852,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sexta-Feira",
       "horario": "21:50 - 22:40",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_noturno",
       "turno": "Noturno"
     },
     {
@@ -9039,7 +9039,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-competencias-e-hab-p-educacao",
       "turno": "Noturno"
     },
     {
@@ -9050,7 +9050,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-competencias-e-hab-p-educacao",
       "turno": "Noturno"
     },
     {
@@ -9061,7 +9061,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-competencias-e-hab-p-educacao",
       "turno": "Noturno"
     },
     {
@@ -9072,7 +9072,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-competencias-e-hab-p-educacao",
       "turno": "Noturno"
     },
     {
@@ -9083,7 +9083,7 @@
       "professor": "PATRICIA MENEZES DE OLIVEIRA",
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-competencias-e-hab-p-educacao",
       "turno": "Noturno"
     },
     {
@@ -9200,10 +9200,21 @@
       "semestre": "2026-1",
       "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
       "periodo": "1º Período",
-      "disciplina": "Medicina Aeroespacial",
-      "professor": "ANA PAULA RODRIGUES DOS SANTOS BESSA",
+      "disciplina": "Princípios do Voo I",
+      "professor": "GILBERTO STADINIK",
       "dia": "Sexta-Feira",
-      "horario": "19:00 - 19:50",
+      "horario": "19:00 - 21:50",
+      "sala": "305",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Tecnologia em Pilotagem Profissional de Aeronaves",
+      "periodo": "2º Período",
+      "disciplina": "Princípios do Voo I",
+      "professor": "GILBERTO STADINIK",
+      "dia": "Sexta-Feira",
+      "horario": "19:00 - 21:50",
       "sala": "305",
       "turno": "Noturno"
     },
@@ -9402,7 +9413,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sábado",
       "horario": "08:00 - 08:50",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_matutino",
       "turno": "Matutino"
     },
     {
@@ -9413,7 +9424,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sábado",
       "horario": "08:00 - 08:50",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_matutino",
       "turno": "Matutino"
     },
     {
@@ -9424,7 +9435,7 @@
       "professor": "MARCELO ROGERIO ZITTA",
       "dia": "Sábado",
       "horario": "08:00 - 08:50",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_matutino",
       "turno": "Matutino"
     },
     {
@@ -9886,7 +9897,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-tecnologia-e-inovacao-aplicada-gestao-financeira-2026-1",
       "turno": "Noturno"
     },
     {
@@ -9897,7 +9908,7 @@
       "professor": "",
       "dia": "",
       "horario": "",
-      "sala": "On-line",
+      "sala": "https://elos.vc/unisantacruz/projeto-integrador-tecnologia-e-inovacao-aplicada-gestao-financeira-2026-1",
       "turno": "Noturno"
     }
   ],
