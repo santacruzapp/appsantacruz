@@ -838,17 +838,6 @@
     },
     {
       "semestre": "2026-1",
-      "curso": "Engenharia de Produção",
-      "periodo": "1º Período",
-      "disciplina": "Estatística Aplicada",
-      "professor": "CARLOS ALBERTO DA ROSA",
-      "dia": "Segunda-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "107",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
       "curso": "Engenharia de Software",
       "periodo": "1º Período",
       "disciplina": "Estatística Aplicada",
@@ -2950,17 +2939,6 @@
     },
     {
       "semestre": "2026-1",
-      "curso": "Engenharia de Produção",
-      "periodo": "1º Período",
-      "disciplina": "Algoritmos",
-      "professor": "ROGER LUCIO DE LIMA BASSAN",
-      "dia": "Terça-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "108",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
       "curso": "Engenharia de Software",
       "periodo": "1º Período",
       "disciplina": "Algoritmos",
@@ -3561,7 +3539,7 @@
       "professor": "FABIO LUIS VICENTE DE OLIVEIRA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "220",
+      "sala": "216",
       "turno": "Noturno"
     },
     {
@@ -3572,7 +3550,7 @@
       "professor": "FABIO LUIS VICENTE DE OLIVEIRA",
       "dia": "Terça-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "220",
+      "sala": "216",
       "turno": "Noturno"
     },
     {
@@ -5048,17 +5026,6 @@
       "horario": "08:00 - 10:50",
       "sala": "201",
       "turno": "Matutino"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Engenharia de Produção",
-      "periodo": "1º Período",
-      "disciplina": "Matemática Discreta",
-      "professor": "",
-      "dia": "Quarta-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "310",
-      "turno": "Noturno"
     },
     {
       "semestre": "2026-1",
@@ -6707,7 +6674,7 @@
       "professor": "ARIANE FERNANDES DE OLIVEIRA",
       "dia": "Quinta-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "208",
+      "sala": "205",
       "turno": "Matutino"
     },
     {
@@ -7038,17 +7005,6 @@
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
       "sala": "319",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Engenharia de Produção",
-      "periodo": "1º Período",
-      "disciplina": "Gestão de Pessoas",
-      "professor": "DANIELLE TEDESKO",
-      "dia": "Quinta-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "112",
       "turno": "Noturno"
     },
     {
@@ -9894,7 +9850,7 @@
       "curso": "Tecnologia em Gestão Financeira",
       "periodo": "3º Período",
       "disciplina": "Projeto Integrador - Pilares da Gestão Financeira",
-      "professor": "",
+      "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "",
       "horario": "",
       "sala": "https://elos.vc/unisantacruz/projeto-integrador-tecnologia-e-inovacao-aplicada-gestao-financeira-2026-1",
@@ -9905,7 +9861,7 @@
       "curso": "Tecnologia em Gestão Financeira",
       "periodo": "4º Período",
       "disciplina": "Projeto Integrador - Pilares da Gestão Financeira",
-      "professor": "",
+      "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "",
       "horario": "",
       "sala": "https://elos.vc/unisantacruz/projeto-integrador-tecnologia-e-inovacao-aplicada-gestao-financeira-2026-1",
