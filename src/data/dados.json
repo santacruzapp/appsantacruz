@@ -3534,28 +3534,6 @@
     {
       "semestre": "2026-1",
       "curso": "Sistemas de Informação",
-      "periodo": "1º Período",
-      "disciplina": "Arquitetura e Infraestrutura de TI",
-      "professor": "FABIO LUIS VICENTE DE OLIVEIRA",
-      "dia": "Terça-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "216",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Sistemas de Informação",
-      "periodo": "2º Período",
-      "disciplina": "Arquitetura e Infraestrutura de TI",
-      "professor": "FABIO LUIS VICENTE DE OLIVEIRA",
-      "dia": "Terça-Feira",
-      "horario": "19:00 - 21:50",
-      "sala": "216",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Sistemas de Informação",
       "periodo": "3º Período",
       "disciplina": "Contabilidade",
       "professor": "RAFAELA DA ROCHA",
@@ -9117,6 +9095,28 @@
       "dia": "Sexta-Feira",
       "horario": "19:00 - 21:50",
       "sala": "213",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Sistemas de Informação",
+      "periodo": "1º Período",
+      "disciplina": "Arquitetura e Infraestrutura de TI",
+      "professor": "FABIO LUIS VICENTE DE OLIVEIRA",
+      "dia": "Sexta-Feira",
+      "horario": "19:00 - 21:50",
+      "sala": "216",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Sistemas de Informação",
+      "periodo": "2º Período",
+      "disciplina": "Arquitetura e Infraestrutura de TI",
+      "professor": "FABIO LUIS VICENTE DE OLIVEIRA",
+      "dia": "Sexta-Feira",
+      "horario": "19:00 - 21:50",
+      "sala": "216",
       "turno": "Noturno"
     },
     {
