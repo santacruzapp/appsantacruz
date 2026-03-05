@@ -475,11 +475,11 @@ function EnsalamentoView({ data }: { data: Ensalamento[] }) {
                     {aulas.map((aula, idx) => (
                       <div key={idx} className="card space-y-3">
                         <div>
-                          <h5 className="font-bold text-base leading-tight text-primary">{aula.disciplina}</h5>
+                          <h5 className="font-bold text-base leading-tight text-primary"><Linkify options={{ target: "_blank", rel: "noopener noreferrer", className: "text-primary underline font-bold" }}>{aula.disciplina}</Linkify></h5>
                           <p className="text-sm text-black mt-1.5 flex items-center gap-1.5">
                             <span className="font-semibold text-gray-900">Professor(a):</span> 
                             <span className="text-gray-900 font-medium">
-                              {aula.professor || 'A definir'}
+                              <Linkify options={{ target: "_blank", rel: "noopener noreferrer", className: "text-primary underline font-medium" }}>{aula.professor || "A definir"}</Linkify>
                             </span>  
                           </p>
                         </div>
@@ -488,14 +488,14 @@ function EnsalamentoView({ data }: { data: Ensalamento[] }) {
                             <Clock className="w-4 h-4 text-primary shrink-0" />
                             <div className="flex flex-col">
                               <span className="text-[10px] font-bold uppercase text-black/40">Horário</span>
-                              <span className="text-black/80 font-bold">{aula.horario}</span>
+                              <span className="text-black/80 font-bold"><Linkify options={{ target: "_blank", rel: "noopener noreferrer", className: "text-primary underline font-medium" }}>{aula.horario}</Linkify></span>
                             </div>
                           </div>
                           <div className="flex items-center gap-2 text-xs font-medium text-black/60">
                             <MapPin className="w-4 h-4 text-primary shrink-0" />
                             <div className="flex flex-col">
                               <span className="text-[10px] font-bold uppercase text-black/40">Sala</span>
-                              <span className="text-black/80 font-bold">{aula.sala}</span>
+                              <span className="text-black/80 font-bold"><Linkify options={{ target: "_blank", rel: "noopener noreferrer", className: "text-primary underline font-medium" }}>{aula.sala}</Linkify></span>
                             </div>
                           </div>
                         </div>
