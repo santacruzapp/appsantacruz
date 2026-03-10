@@ -74,7 +74,7 @@
       "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "220",
+      "sala": "216",
       "turno": "Noturno"
     },
     {
@@ -85,7 +85,7 @@
       "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "220",
+      "sala": "216",
       "turno": "Noturno"
     },
     {
@@ -335,7 +335,7 @@
       "curso": "Ciências Contábeis",
       "periodo": "5º Período",
       "disciplina": "Contabilidade e Negócios Internacionais",
-      "professor": "Marcia Fernanda Vieira Rocha",
+      "professor": "EDSON DEGRAF",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
       "sala": "226",
@@ -349,7 +349,7 @@
       "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "220",
+      "sala": "216",
       "turno": "Noturno"
     },
     {
@@ -520,7 +520,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "6º Período",
+      "periodo": "5º Período B",
       "disciplina": "Direito Penal - Crimes Contra a Pessoa e o Patrimônio",
       "professor": "MURILO BUCHMANN",
       "dia": "Segunda-Feira",
@@ -643,10 +643,10 @@
       "curso": "Enfermagem",
       "periodo": "1º Período",
       "disciplina": "Biomoléculas e Bioquímica",
-      "professor": "RODRIGO OTAVIO DE FARIA",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "205",
       "turno": "Noturno"
     },
     {
@@ -863,10 +863,10 @@
       "curso": "Farmácia",
       "periodo": "1º Período",
       "disciplina": "Biomoléculas e Bioquímica",
-      "professor": "RODRIGO OTAVIO DE FARIA",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "205",
       "turno": "Noturno"
     },
     {
@@ -995,10 +995,10 @@
       "curso": "Fisioterapia",
       "periodo": "1º Período",
       "disciplina": "Biomoléculas e Bioquímica",
-      "professor": "RODRIGO OTAVIO DE FARIA",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "205",
       "turno": "Noturno"
     },
     {
@@ -1171,7 +1171,7 @@
       "curso": "Medicina Veterinária",
       "periodo": "5º Período",
       "disciplina": "Produção de Equideos",
-      "professor": "ANDRE RICHTER RIBEIRO",
+      "professor": "GUILHERME MEIRELHES",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 20:40",
       "sala": "227",
@@ -1193,7 +1193,7 @@
       "curso": "Medicina Veterinária",
       "periodo": "6º Período",
       "disciplina": "Produção de Equideos",
-      "professor": "ANDRE RICHTER RIBEIRO",
+      "professor": "GUILHERME MEIRELHES",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 20:40",
       "sala": "227",
@@ -1504,7 +1504,7 @@
       "professor": "RODRIGO GOMES LEMOS",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "216",
+      "sala": "220",
       "turno": "Noturno"
     },
     {
@@ -1515,7 +1515,7 @@
       "professor": "RODRIGO GOMES LEMOS",
       "dia": "Segunda-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "216",
+      "sala": "220",
       "turno": "Noturno"
     },
     {
@@ -2599,7 +2599,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "6º Período",
+      "periodo": "5º Período B",
       "disciplina": "Direito Civil - Direito das Coisas",
       "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Terça-Feira",
@@ -2755,10 +2755,10 @@
       "curso": "Enfermagem",
       "periodo": "1º Período",
       "disciplina": "Aspectos Celulares e Estruturais dos Tecidos",
-      "professor": "BEATRIZ ESSENFELDER BORGES",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Terça-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "204",
       "turno": "Noturno"
     },
     {
@@ -2964,10 +2964,10 @@
       "curso": "Farmácia",
       "periodo": "1º Período",
       "disciplina": "Aspectos Celulares e Estruturais dos Tecidos",
-      "professor": "BEATRIZ ESSENFELDER BORGES",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Terça-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "204",
       "turno": "Noturno"
     },
     {
@@ -3096,10 +3096,10 @@
       "curso": "Fisioterapia",
       "periodo": "1º Período",
       "disciplina": "Aspectos Celulares e Estruturais dos Tecidos",
-      "professor": "BEATRIZ ESSENFELDER BORGES",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Terça-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "204",
       "turno": "Noturno"
     },
     {
@@ -4711,7 +4711,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "5º Período",
+      "periodo": "5º Período A",
       "disciplina": "Direito Penal - Crimes Contra a Pessoa e o Patrimônio",
       "professor": "MURILO BUCHMANN",
       "dia": "Quarta-Feira",
@@ -4722,7 +4722,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "6º Período",
+      "periodo": "5º Período B",
       "disciplina": "Direito Proc. Civil - Processo de Conhecimento",
       "professor": "MARISTELA SILVA FAGUNDES RIBAS",
       "dia": "Quarta-Feira",
@@ -4821,7 +4821,18 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "5º Período",
+      "periodo": "5º Período A",
+      "disciplina": "Ext. Univ - Proj. em Temas Contemporâneo e Diversidade",
+      "professor": "DANIELLE TEDESKO",
+      "dia": "Quarta-Feira",
+      "horario": "18:10 - 19:00",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-proj-em-temas-contemporaneo-e-diversidade_noturno",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Direito",
+      "periodo": "5º Período B",
       "disciplina": "Ext. Univ - Proj. em Temas Contemporâneo e Diversidade",
       "professor": "DANIELLE TEDESKO",
       "dia": "Quarta-Feira",
@@ -4856,10 +4867,10 @@
       "curso": "Enfermagem",
       "periodo": "1º Período",
       "disciplina": "Aspectos Celulares e Estruturais dos Tecidos",
-      "professor": "BEATRIZ ESSENFELDER BORGES",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "204",
       "turno": "Noturno"
     },
     {
@@ -5021,10 +5032,10 @@
       "curso": "Farmácia",
       "periodo": "1º Período",
       "disciplina": "Aspectos Celulares e Estruturais dos Tecidos",
-      "professor": "BEATRIZ ESSENFELDER BORGES",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "204",
       "turno": "Noturno"
     },
     {
@@ -5175,10 +5186,10 @@
       "curso": "Fisioterapia",
       "periodo": "1º Período",
       "disciplina": "Aspectos Celulares e Estruturais dos Tecidos",
-      "professor": "BEATRIZ ESSENFELDER BORGES",
+      "professor": "CHARYANE SATIE SATO",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "204",
       "turno": "Noturno"
     },
     {
@@ -6625,7 +6636,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "5º Período",
+      "periodo": "5º Período A",
       "disciplina": "Direito Proc. Civil - Processo de Conhecimento",
       "professor": "MARISTELA SILVA FAGUNDES RIBAS",
       "dia": "Quinta-Feira",
@@ -6957,10 +6968,10 @@
       "curso": "Enfermagem",
       "periodo": "1º Período",
       "disciplina": "Parasitologia",
-      "professor": "RODRIGO OTAVIO DE FARIA",
+      "professor": "Ingrid Evans",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -7012,10 +7023,10 @@
       "curso": "Farmácia",
       "periodo": "1º Período",
       "disciplina": "Parasitologia",
-      "professor": "RODRIGO OTAVIO DE FARIA",
+      "professor": "Ingrid Evans",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -7210,10 +7221,10 @@
       "curso": "Fisioterapia",
       "periodo": "1º Período",
       "disciplina": "Parasitologia",
-      "professor": "RODRIGO OTAVIO DE FARIA",
+      "professor": "Ingrid Evans",
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
-      "sala": "201",
+      "sala": "223",
       "turno": "Noturno"
     },
     {
@@ -8187,7 +8198,7 @@
     {
       "semestre": "2026-1",
       "curso": "Direito",
-      "periodo": "5º Período",
+      "periodo": "5º Período A",
       "disciplina": "Direito Civil - Direito das Coisas",
       "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Sexta-Feira",
