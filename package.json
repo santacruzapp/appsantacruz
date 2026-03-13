@@ -8,7 +8,10 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "atualizar:ensalamento": "node scripts/atualizar-dados.mjs ensalamento",
+    "atualizar:eventos": "node scripts/atualizar-dados.mjs eventos",
+    "atualizar:faq": "node scripts/atualizar-dados.mjs faq"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
