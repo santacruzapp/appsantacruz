@@ -481,7 +481,7 @@
       "professor": "REGINALDO RIBAS",
       "dia": "Segunda-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "205",
+      "sala": "202",
       "turno": "Matutino"
     },
     {
@@ -492,7 +492,7 @@
       "professor": "REGINALDO RIBAS",
       "dia": "Segunda-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "205",
+      "sala": "202",
       "turno": "Matutino"
     },
     {
@@ -500,7 +500,7 @@
       "curso": "Direito",
       "periodo": "5º Período",
       "disciplina": "Direito Penal - Crimes Contra a Pessoa e o Patrimônio",
-      "professor": "ISRAEL RUTTE",
+      "professor": "MURILO BUCHMANN",
       "dia": "Segunda-Feira",
       "horario": "08:00 - 10:50",
       "sala": "207",
@@ -511,7 +511,7 @@
       "curso": "Direito",
       "periodo": "6º Período",
       "disciplina": "Direito Penal - Crimes Contra a Pessoa e o Patrimônio",
-      "professor": "ISRAEL RUTTE",
+      "professor": "MURILO BUCHMANN",
       "dia": "Segunda-Feira",
       "horario": "08:00 - 10:50",
       "sala": "207",
@@ -2549,7 +2549,7 @@
       "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Terça-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "205",
+      "sala": "202",
       "turno": "Matutino"
     },
     {
@@ -2560,7 +2560,7 @@
       "professor": "FERNANDO ANTONIO REGO DE AZEREDO",
       "dia": "Terça-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "205",
+      "sala": "202",
       "turno": "Matutino"
     },
     {
@@ -4683,7 +4683,7 @@
       "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Quarta-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "205",
+      "sala": "202",
       "turno": "Matutino"
     },
     {
@@ -4694,7 +4694,7 @@
       "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Quarta-Feira",
       "horario": "08:00 - 10:50",
-      "sala": "205",
+      "sala": "202",
       "turno": "Matutino"
     },
     {
@@ -4746,7 +4746,7 @@
       "curso": "Direito",
       "periodo": "7º Período",
       "disciplina": "Direito Proc. Penal - Procedimentos Esp. e Recursos",
-      "professor": "ISRAEL RUTTE",
+      "professor": "Gabriel Rodrigues de Carvalho",
       "dia": "Quarta-Feira",
       "horario": "19:00 - 21:50",
       "sala": "211",
@@ -8211,7 +8211,7 @@
       "curso": "Direito",
       "periodo": "7º Período",
       "disciplina": "Direito Proc. Penal - Procedimentos Esp. e Recursos",
-      "professor": "ISRAEL RUTTE",
+      "professor": "CRISTIANO AUGUSTO QUINTAS DOS SANTOS",
       "dia": "Sexta-Feira",
       "horario": "08:00 - 10:50",
       "sala": "208",
