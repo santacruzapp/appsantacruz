@@ -531,21 +531,37 @@ function EventosView({ data }: { data: Evento[] }) {
               <div className="p-4 space-y-3">
                 <div>
                   <h3 className="font-bold text-lg leading-tight">{evento.titulo}</h3>
-                  <p className="text-sm text-gray-900 mt-2 line-clamp-3">{evento.descricao}</p>
+                  <div className="text-sm text-gray-900 mt-2 break-words whitespace-pre-wrap">
+                    <Linkify
+                      options={{
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "text-primary underline font-medium break-all max-w-full"
+                      }}
+                    >
+                      {evento.descricao}
+                    </Linkify>
+                  </div>
                 </div>
                 <div className="flex flex-wrap gap-4 pt-3 border-t border-black/5">
-                  <div className="flex items-center gap-1.5 text-xs font-bold text-black">
-                    <Calendar className="w-3.5 h-3.5 text-primary" />
-                    {evento.data}
-                  </div>
-                  <div className="flex items-center gap-1.5 text-xs font-bold text-black">
-                    <Clock className="w-3.5 h-3.5 text-primary" />
-                    {evento.horario}
-                  </div>
-                  <div className="flex items-center gap-1.5 text-xs font-bold text-black">
-                    <MapPin className="w-3.5 h-3.5 text-primary" />
-                    {evento.local}
-                  </div>
+                  {evento.data && (
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-black">
+                      <Calendar className="w-3.5 h-3.5 text-primary" />
+                      {evento.data}
+                    </div>
+                  )}
+                  {evento.horario && (
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-black">
+                      <Clock className="w-3.5 h-3.5 text-primary" />
+                      {evento.horario}
+                    </div>
+                  )}
+                  {evento.local && (
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-black">
+                      <MapPin className="w-3.5 h-3.5 text-primary" />
+                      {evento.local}
+                    </div>
+                  )}
                 </div>
               </div>
             </div>
