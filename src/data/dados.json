@@ -3492,33 +3492,11 @@
       "curso": "Psicologia",
       "periodo": "1º Período",
       "disciplina": "Ext. Univ - Educação em Saúde, Meio Amb. Sustentabilidade",
-      "professor": "MARCELO ROGERIO ZITTA",
-      "dia": "Terça-Feira",
-      "horario": "21:50 - 22:40",
-      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_adm",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Psicologia",
-      "periodo": "1º Período",
-      "disciplina": "Ext. Univ - Educação em Saúde, Meio Amb. Sustentabilidade",
       "professor": "WALCIR SOARES DA SILVA JUNIOR",
       "dia": "Terça-Feira",
       "horario": "11:40 - 12:30",
       "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_matutino",
       "turno": "Matutino"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Psicologia",
-      "periodo": "2º Período",
-      "disciplina": "Ext. Univ - Educação em Saúde, Meio Amb. Sustentabilidade",
-      "professor": "MARCELO ROGERIO ZITTA",
-      "dia": "Terça-Feira",
-      "horario": "21:50 - 22:40",
-      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_adm",
-      "turno": "Noturno"
     },
     {
       "semestre": "2026-1",
@@ -8454,9 +8432,9 @@
       "periodo": "7º Período",
       "disciplina": "Ext. Univ - Saúde em Ambiente Nosocomial",
       "professor": "MARCELO ROGERIO ZITTA",
-      "dia": "Sexta-Feira",
-      "horario": "21:50 - 22:40",
-      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial_noturno",
+      "dia": "Sábado",
+      "horario": "10:00 - 10:50",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-saude-em-ambiente-nosocomial-sabado",
       "turno": "Noturno"
     },
     {
@@ -9029,6 +9007,28 @@
       "dia": "Sexta-Feira",
       "horario": "18:10 - 19:00",
       "sala": "https://elos.vc/unisantacruz/ext-univ-competencias-e-hab-p-educacao",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Psicologia",
+      "periodo": "1º Período",
+      "disciplina": "Ext. Univ - Educação em Saúde, Meio Amb. Sustentabilidade",
+      "professor": "MARCELO ROGERIO ZITTA",
+      "dia": "Quinta",
+      "horario": "21:50 - 22:40",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-educacao-em-saude-meio-amb-sustentab-noturno",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Psicologia",
+      "periodo": "2º Período",
+      "disciplina": "Ext. Univ - Educação em Saúde, Meio Amb. Sustentabilidade",
+      "professor": "MARCELO ROGERIO ZITTA",
+      "dia": "Quinta",
+      "horario": "21:50 - 22:40",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-educacao-em-saude-meio-amb-sustentab-noturno",
       "turno": "Noturno"
     },
     {
