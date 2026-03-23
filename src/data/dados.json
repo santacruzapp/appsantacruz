@@ -9881,46 +9881,74 @@
   ],
   "eventos": [
     {
-      "titulo": "Recepção Flow",
+      "titulo": "Mulheres, Direito e Protagonismo | Ciclo de Painéis sobre ODS – Santa Cruz",
+      "descricao": "Painel ODS 5: Lançamento do Projeto Raise Your Voice. Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "24/03",
+      "horario": "19h às 21h"
+    },
+    {
+      "titulo": "Mulheres, Direito e Protagonismo | Ciclo de Painéis sobre ODS – Santa Cruz",
+      "descricao": "Painel ODS 3: Saúde das Mulheres. Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "25/03",
+      "horario": "9h às 11h"
+    },
+    {
+      "titulo": "Mulheres, Direito e Protagonismo | Ciclo de Painéis sobre ODS – Santa Cruz",
+      "descricao": "Painel ODS 16: Igualdade de Gênero e o Direito. Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "25/03",
+      "horario": "19h às 21h"
+    },
+    {
+      "titulo": "Mulheres, Direito e Protagonismo | Ciclo de Painéis sobre ODS – Santa Cruz",
+      "descricao": "Painel ODS 8: Lideranças Femininas em Posições Estratégicas nos Negócios. Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "26/03",
+      "horario": "19h às 21h"
+    },
+    {
+      "titulo": "",
       "descricao": "",
-      "local": "Área Interna",
-      "data": "02/03",
-      "horario": "Manhã: 08h - Noite: 17:30h"
+      "local": "",
+      "data": "",
+      "horario": ""
     },
     {
-      "titulo": "Atrações e ativações especiais",
-      "descricao": "Máquina de pelúcia, Simulador de Fórmula 1, dinâmicas para brindes.",
-      "local": "Área Interna",
-      "data": "02/03",
-      "horario": "Manhã: 09h - Noite: 18h"
+      "titulo": "Mulheres, Direito e Protagonismo | Ciclo de Painéis sobre ODS – Santa Cruz",
+      "descricao": "Participe do ciclo de painéis sobre mulheres, direito e protagonismo, alinhado aos ODS da ONU. Evento da Santa Cruz com inscrições abertas.",
+      "local": "Auditório",
+      "data": "24/03 a 26/03",
+      "horario": ""
     },
     {
-      "titulo": "Abertura oficial",
-      "descricao": "Apresentação presidência, reitoria e coordenadores.",
-      "local": "Área Externa",
-      "data": "02/03",
-      "horario": "Manhã: 09:20h - Noite: 19:20h"
+      "titulo": "Painel ODS 5: Lançamento do Projeto Raise Your Voice. Evento do ciclo sobre mulheres, direito e protagonismo.",
+      "descricao": "Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "24/03",
+      "horario": "19h às 21h"
     },
     {
-      "titulo": "Atração surpresa",
-      "descricao": "Você não perde por esperar...",
-      "local": "Área Externa",
-      "data": "02/03",
-      "horario": "Manhã: 10h - Noite: 20:20h"
+      "titulo": "Painel ODS 3: Saúde das Mulheres. Evento do ciclo sobre mulheres, direito e protagonismo.",
+      "descricao": "Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "25/03",
+      "horario": "9h às 11h"
     },
     {
-      "titulo": "Dinâmica e sorterio",
-      "descricao": "Moletom Santa Cruz, cesta com eletrônicos e muito mais para o aluno Santa Cruz.",
-      "local": "Área Externa",
-      "data": "02/03",
-      "horario": "Manhã: 11h - Noite: 21:30h"
+      "titulo": "Painel ODS 16: Igualdade de Gênero e o Direito.",
+      "descricao": "Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "25/03",
+      "horario": "19h às 21h"
     },
     {
-      "titulo": "Encerramento Flow",
-      "descricao": "",
-      "local": "Área Externa",
-      "data": "02/03",
-      "horario": "Manhã: 12h - Noite: 22h"
+      "titulo": "Painel ODS 8: Lideranças Femininas em Posições Estratégicas nos Negócios.",
+      "descricao": "Evento do ciclo sobre mulheres, direito e protagonismo. Inscrições: https://bit.ly/4cGSu9o",
+      "local": "Auditório",
+      "data": "26/03",
+      "horario": "19h às 21h"
     }
   ],
   "faq": [
