@@ -2433,28 +2433,6 @@
     },
     {
       "semestre": "2026-1",
-      "curso": "Comunicação Social: Publicidade e Propaganda",
-      "periodo": "1º Período",
-      "disciplina": "Ext. Univ - Práticas em ESG",
-      "professor": "MARCELO ROGERIO ZITTA",
-      "dia": "Terça-Feira",
-      "horario": "18:10 - 19:00",
-      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_dir",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
-      "curso": "Comunicação Social: Publicidade e Propaganda",
-      "periodo": "2º Período",
-      "disciplina": "Ext. Univ - Práticas em ESG",
-      "professor": "MARCELO ROGERIO ZITTA",
-      "dia": "Terça-Feira",
-      "horario": "18:10 - 19:00",
-      "sala": "https://elos.vc/unisantacruz/ext-univ-praticas-em-esg_dir",
-      "turno": "Noturno"
-    },
-    {
-      "semestre": "2026-1",
       "curso": "Criminologia",
       "periodo": "1º Período",
       "disciplina": "Ciência Política e Teoria do Estado",
@@ -6499,6 +6477,28 @@
       "dia": "Quinta-Feira",
       "horario": "19:00 - 21:50",
       "sala": "302",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Comunicação Social: Publicidade e Propaganda",
+      "periodo": "1º Período",
+      "disciplina": "Ext. Univ - Arena Digital",
+      "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
+      "dia": "Quinta-Feira",
+      "horario": "18:10 - 19:00",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-arena-digital",
+      "turno": "Noturno"
+    },
+    {
+      "semestre": "2026-1",
+      "curso": "Comunicação Social: Publicidade e Propaganda",
+      "periodo": "2º Período",
+      "disciplina": "Ext. Univ - Arena Digital",
+      "professor": "FAGNER ALEXANDRE SOTORRIVA NECKEL",
+      "dia": "Quinta-Feira",
+      "horario": "18:10 - 19:00",
+      "sala": "https://elos.vc/unisantacruz/ext-univ-arena-digital",
       "turno": "Noturno"
     },
     {
