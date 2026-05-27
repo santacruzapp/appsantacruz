@@ -9924,7 +9924,7 @@
     },
     {
       "pergunta": "O que é o Web Aluno?",
-      "resposta": "O Web Aluno (https://prime.santacruz.br/webaluno/) está disponível no menu superior do site. Aqui você vai acessar suas notas, horários das aulas, realizar a sua matrícula/rematrícula, boletos e muito mais. Para logar, é preciso colocar o seu CPF no campo de usuário e também o seu CPF no campo de senha.",
+      "resposta": "O Web Aluno (https://prime.santacruz.br/webaluno/) está disponível no menu superior do site. Aqui você vai acessar suas notas, horários das aulas, realizar a sua matrícula/rematrícula, boletos e muito mais. Para logar, é preciso colocar o seu CPF e sua data de nascimento (xx/xx/xxxx).",
       "categoria": "Geral"
     },
     {
@@ -9944,7 +9944,7 @@
     },
     {
       "pergunta": "Biblioteca: Como acessar?",
-      "resposta": "Dentro do Web Aluno você encontra a Biblioteca on-line e física no segundo andar, com um amplo acervo para apoiar seus estudos e pesquisas, e várias salas destinadas ao estudo individual.",
+      "resposta": "Na biblioteca, que fica no 1º andar, você encontrará vasto acervo para apoiar seus estudos e pesquisas, além de salas de estudo em grupo e cabines individuais. No site da Instituição, no link da biblioteca você terá acesso à nossa Biblioteca virtual com de 15.000 títulos. (https://santacruz.br/biblioteca/)",
       "categoria": "Geral"
     },
     {
