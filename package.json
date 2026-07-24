@@ -11,7 +11,8 @@
     "lint": "tsc --noEmit",
     "atualizar:ensalamento": "node scripts/atualizar-dados.mjs ensalamento",
     "atualizar:eventos": "node scripts/atualizar-dados.mjs eventos",
-    "atualizar:faq": "node scripts/atualizar-dados.mjs faq"
+    "atualizar:faq": "node scripts/atualizar-dados.mjs faq",
+    "atualizar:automatico": "node scripts/atualizar-automatico.mjs"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
